@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FAIZURA ZADRI</string>
+    <string name="welcome">Selamat Datang di Kelas</string>
+    <string name="name_class">Menjadi Mobile App Developer dengan Android Java</string>
+    <string name="txt_peserta_studi_independen">Peserta Studi Independen</string>
+    <string name="company">Gits.id</string>
+    <string name="name_program">Kampus Merdeka</string>
+</resources>
